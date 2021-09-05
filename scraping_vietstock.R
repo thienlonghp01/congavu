@@ -3,6 +3,8 @@ library(rvest)
 library(RSelenium)
 library(stringi)
 
+# congavu
+
 # Link web
 link <- "https://finance.vietstock.vn/chung-khoan-phai-sinh/chung-quyen.htm"
 
