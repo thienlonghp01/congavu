@@ -4,6 +4,7 @@ library(RSelenium)
 library(stringi)
 
 # congavu
+# con ga lan 2
 
 # Link web
 link <- "https://finance.vietstock.vn/chung-khoan-phai-sinh/chung-quyen.htm"
